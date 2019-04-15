@@ -22,7 +22,7 @@ In this step we will create a repository on GitHUB.
 
 ### Instructions
 
-* Go to <a href="https://github.com/">GitHub</a>.
+* Go to <a href="https://github.com/">Github</a>.
 * Sign in to GitHub.
 * On the right side of the page, click on the green `New repository` button.
 * Give your repository any name you like and make sure that the repository is public.
